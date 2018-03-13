@@ -1,0 +1,13 @@
+manager login
+email- manager@hairsalon.com
+password - Password123
+
+admin login
+email- admin@salonapp.com
+password - Password123?
+
+for a customer login use any name and email address to register
+
+Update 
+my last meeting i was missing 2points for troubleshooting(missing appointment context) and 10points for not having a test.
+Those missing files are added now. 
